@@ -23,7 +23,7 @@ class MainActivity : AppCompatActivity() {
         button = findViewById(R.id.buttonclick)
         button.setOnClickListener {
             sendEvent()
-            Toast.makeText(this, "Event pushed to CleaverTap", Toast.LENGTH_LONG).show()
+            Toast.makeText(this, "Product_Viewed Event pushed to CleaverTap", Toast.LENGTH_LONG).show()
 
         }
     }
