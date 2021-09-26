@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1043481268229",
+    "project_id": "ctapp-7c1a7",
+    "storage_bucket": "ctapp-7c1a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043481268229:android:d0d892051e28f1ec4dcc6c",
+        "android_client_info": {
+          "package_name": "com.example.ctapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043481268229-dgknisa3qdav9bhbvbclvvkvvm4o9fop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMcx2HoS1pZKGTxmZEb4pWKYRhSKQGmIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043481268229-dgknisa3qdav9bhbvbclvvkvvm4o9fop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
